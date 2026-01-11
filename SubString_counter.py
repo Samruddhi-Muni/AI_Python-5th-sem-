@@ -1,3 +1,4 @@
+#PART-A
 # 5. (a) Write a python program to implement a function that counts the number of times a string (s1) occurs in another string(s2). 
  
 def count_occurrences(main_string, substring):  
