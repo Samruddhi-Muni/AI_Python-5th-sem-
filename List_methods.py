@@ -1,3 +1,4 @@
+#PART-A
 # 2.(b) Write a python program to implement List methods (Add, Append, and Extend& Delete). 
 
 fruits=['Apple','Banana','Cherry','Grapes','Orange'] 
