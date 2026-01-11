@@ -1,3 +1,4 @@
+#PART-A
 # 4.Write a python program to Illustrate Different Set Operations. 
 set1={1,2,3,4,5} 
 set2={3,4,5,6,7} 
