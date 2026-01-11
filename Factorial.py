@@ -1,3 +1,4 @@
+#PART-A
 # 1. (C)Write a python program to find factorial of the given number? 
  
 num=int(input('enter the number :'))
