@@ -1,3 +1,4 @@
+#PART-A
 # 1. (b) Write a python program to check whether the given number is 
 prime or not? 
  
