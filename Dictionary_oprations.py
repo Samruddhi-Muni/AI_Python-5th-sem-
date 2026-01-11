@@ -1,3 +1,4 @@
+# PART-A
 # 5. (b) Write a program to illustrate Dictionary operations ([], in, traversal) and methods: keys (),values(),items()
  
 # Creating a sample dictionary  
